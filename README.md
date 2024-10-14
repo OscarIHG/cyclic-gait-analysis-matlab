@@ -39,7 +39,6 @@ The program calculates the joint angles and displays them through plots.
 ![Plot Example](images/PlotExample.jpg)
 
 ## Credits
-This project was a team effort. Thanks to everyone who contributed:
 - Velasco López José Carlos
 - Barajas Renteria Jennifer Polet
 - Hernández Gómez Oscar Iván
