@@ -39,8 +39,8 @@ The program calculates the joint angles and displays them through plots.
 ![Plot Example](images/PlotExample.jpg)
 
 ## Credits
-- Velasco Lopez Jose Carlos
-- Barajas Renteria Jennifer Polet
-- Hernandez Gomez Oscar Ivan
-- Hernandez Leon Yaisiri Monserrat
-- Hernandez Puga Adriana Sarahy
+- Jose Carlos Velasco Lopez
+- Jennifer Polet Barajas Renteria
+- Oscar Ivan Hernandez Gomez
+- Yaisiri Monserrat Hernandez Leon
+- Adriana Sarahy Hernandez Puga
