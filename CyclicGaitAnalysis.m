@@ -1,9 +1,10 @@
 % Gait Analysis Program
 
 while (1) % Loop to repeat the analysis
-    close all;
-    clear all;
-    clc;
+    close all; % Close figures from previous analyses
+    % Clear variables selectively to avoid residual data without resetting functions
+    clearvars;
+    % Keep command window history to aid debugging (previously used clc)
     fprintf('\t\t GAIT ANALYSIS\n');
     
     % Load data from a selected file
