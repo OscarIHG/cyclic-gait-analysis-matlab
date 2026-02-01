@@ -1,4 +1,4 @@
-# Cyclic-Gait-Analysis-Tool
+# Cyclic Gait Analysis Tool
 Matlab program for cyclic gait analysis
 
 ## Overview
